@@ -71,6 +71,8 @@ About this port
 This port follows the original Text::Quoted as closesly as possible
 while attempting to make it somewhat pythonic.
 
+Copyright (C) 2012 Nicholas Burlett
+
 This software is distributed WITHOUT ANY WARRANTY; without even the implied
 warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
